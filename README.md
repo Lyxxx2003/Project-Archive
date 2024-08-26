@@ -4,6 +4,7 @@ This repository records all projects I've done at my Undergraduate Degree.
 ## Machine Learning Projects
 ### Multi-Modal Projects
 - **Description**: These projects combine the Computer Vision techniques and the Natural Language Processing techniques to do multi-modal analysis.
+
 a. Sentiment Analysis:
 - **Description**: This project uses CNN to process Twitter images and the AlexNet model to process Twitter texts to form a sentiment analysis of sample twitter posts.
 - **Techniques**: PyTorch, CNN, AlexNet
