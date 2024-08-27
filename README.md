@@ -33,7 +33,7 @@ b. [Translation](https://drive.google.com/file/d/1PC6J1A_Dce-ey5l4qfI7aAq9A0WEvm
 - **Technologies**: TensorFlow
 
 ## Data Science Projects
-### [PCA]()
+### [PCA](https://drive.google.com/file/d/1s-BIyeT2bVVgg0ts5U82qXQ9RbVSM3h_/view?usp=sharing)
 - **Description**: This project provides a tutorial for **Linear Algebra** concepts. It also uses a banking information from **Kaggle** and evaluates its campaign strategies by using PCA to reduce the data's dimensionality and visualize it.
 - **Technologies**: Python
 - **Techniques**: Linear Algebra, Kaggle
@@ -48,7 +48,37 @@ b. [Translation](https://drive.google.com/file/d/1PC6J1A_Dce-ey5l4qfI7aAq9A0WEvm
 - **Technologies**: PyTorch
 - **Techniques**: Neural Network, Data Processing
 
-## Websites/Gists
+## Websites
+### Gardening App [GitHub](https://github.com/Lyxxx2003/Gardening-App)
+- **Description**: This repository stores codes and designs for a Gardening App, aiming to allow gardeners to upload diaries and users to plant flowers/experience farming in a virtual game.
+- **Technologies**: React, TypeScript, Firebase, Figma
+
+### Rental Helper: HMY (Hackathon) [Figma Design](https://www.figma.com/design/7E5QuDZzjneMMSrpzt4njJ/Legal-Hackathon---HMY?node-id=0-1&t=I16whWC3r8zOleAz-0) | [Presentation](https://docs.google.com/presentation/d/1slWyXDOUP7oNCNrgSD_iMsOuCFa7dVGi/edit?usp=sharing&ouid=109272171345780345599&rtpof=true&sd=true)
+- **Description**: We used legal knowledge to design an App aimed to prevent and resolve rental problems. We divided the tasks into 2 stages: preliminary stage and conflict stage. The preliminary stage aims to reduce conflicts by promoting pre-checkin screen, and the conflict stage aims to minimize the possibility for a Court statement (but also helps to sign documents if needed).
+- **Technologies**: Figma
+
+### EcoWanderers (Hackathon): [GitHub](https://github.com/Lyxxx2003/EcoWanderers) | [DevPost](https://devpost.com/software/ecowanderers-do873p) | [Presentation](https://docs.google.com/presentation/d/1g_uU6NNqzgWo0k9AJ0HWYwPFoUUo47Ts8Df9HgXIrSE/edit?usp=sharing)
+- **Description**: We aimed to develop an eco-friendly app to promote 'green transportation'. We calculated the COx emission for each recommended transportation, and will give rewards for users who chose the 'greener' way. The rewards could be used to grow a 'virtual tree' to visualize users' choice in terms of bettering the environment.
+- **Technologies**: React, TypeScript, Mapbox, Cookie, Figma
+
+### River App (Hackathon): [GitHub](https://github.com/Lyxxx2003/River-App)
+- **Description**: We aimed to design a website listing all major rivers across the world with endanger animals that rely on them. By doing this, we hope to evoke the realization of the importance of water resources, i.e. rivers.
+- **Technologies**: Figma, React, JavaScript, CSS
+
+## Apps
+### Android App (private repo)
+- **Description**: We designed an Android App to showcase the most popular places on campus. Students could react to the popular places and add new ones. I contributed a new functionality to allow users to find the exact locations and other real-life comments about the places via Google.
+- **Technologies**: Kotlin, Android Studio
+
+### Movie Searcher App (private repo)
+- **Description**: I developed an app to better display and search for movies. Users could customize the sorting mechanism of the searching result, and they could search for movies by uploading relevant posters.
+- **Technologies**: Python, Qt5, SQLite Database
+- **Techniques**: Web Crawler, Baidu API
+
+## Gists
+- Java (Data Structures and Algorithms)
+- C (Website using Socket)
+- C++
 
 ## Contact
 Feel free to reach out via email [Email](yl5574@columbia.edu)(expire after 2027) or [LinkedIn](https://www.linkedin.com/in/yuxin-li-b0aba3266/).
