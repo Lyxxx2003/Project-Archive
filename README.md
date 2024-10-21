@@ -80,5 +80,8 @@ b. [Translation](https://drive.google.com/file/d/1PC6J1A_Dce-ey5l4qfI7aAq9A0WEvm
 - C (Website using Socket)
 - C++
 
+## Publications
+[Self-supervised Learning in Large-scale Recommendation System](https://www.ewadirect.com/proceedings/tns/article/view/8370)
+
 ## Contact
 Feel free to reach out via email [Email](yl5574@columbia.edu)(expire after 2027) or [LinkedIn](https://www.linkedin.com/in/yuxin-li-b0aba3266/).
