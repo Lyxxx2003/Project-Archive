@@ -2,6 +2,16 @@
 FILE *input = fdopen(socket_descriptor, "r");
 ```
 
+```
+FILE *input = fdopen(socket_descriptor, "r"); // read-only FILE pointer
+FILE *output = fdopen(dup(socketdescriptor), "w"); // write-only FILE pointer
+
+// ...
+
+fclose(input);
+fclose(output);
+```
+
 # Portfolios
 This repository records all projects I've done at my Undergraduate Degree.
 
