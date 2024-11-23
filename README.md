@@ -1,3 +1,7 @@
+```
+FILE *input = fdopen(socket_descriptor, "r");
+```
+
 # Portfolios
 This repository records all projects I've done at my Undergraduate Degree.
 
