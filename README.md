@@ -1,4 +1,4 @@
-# Portfolios
+# Project Archive
 This repository records all projects I've done at my Undergraduate Degree.
 
 ## Machine Learning Projects
