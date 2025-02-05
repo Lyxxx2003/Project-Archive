@@ -1,5 +1,5 @@
 # Project Archive
-This repository records all projects I've done at my Undergraduate Degree.
+This repository records all projects I've done at my B.S. in Computer Science at Columbia University (*2023-2026*).
 
 ## Machine Learning Projects
 ### Multi-Modal Projects
@@ -49,6 +49,11 @@ b. [Translation](https://drive.google.com/file/d/1PC6J1A_Dce-ey5l4qfI7aAq9A0WEvm
 - **Techniques**: Neural Network, Data Processing
 
 ## Websites
+### Event Search&Rec [Demo Video](https://youtu.be/msj-LDX2R4Q)
+- **Description**: This website could provide information of relevant near-by events. It allows users to 'star' their favorite events, and uses content-based recommendation strategy to recommend events.
+- **Technologies**: HTML/CSS/JS, Java, MySQL
+- **Tools**: Eclipse, MAMP, Postman, AWS EC2
+
 ### Gardening App [GitHub](https://github.com/Lyxxx2003/Gardening-App)
 - **Description**: This repository stores codes and designs for a Gardening App, aiming to allow gardeners to upload diaries and users to plant flowers/experience farming in a virtual game.
 - **Technologies**: React, TypeScript, Firebase, Figma
@@ -66,6 +71,10 @@ b. [Translation](https://drive.google.com/file/d/1PC6J1A_Dce-ey5l4qfI7aAq9A0WEvm
 - **Technologies**: Figma, React, JavaScript, CSS
 
 ## Apps
+### iOS Flashcard App: [GitLab](https://gitlab.com/mobileappdevelopmentios/w4995_fall24/teams/vulture.git)
+- **Description**: We used SwiftUI to design an iOS app called QuizBee. It aims to provide customized experience (e.g. customized voice) and use AI to generate pop quizzes for language learners.
+- **Technologies**: Figma, SwiftUI, GitLab, XCode
+
 ### Android App (private repo)
 - **Description**: We designed an Android App to showcase the most popular places on campus. Students could react to the popular places and add new ones. I contributed a new functionality to allow users to find the exact locations and other real-life comments about the places via Google.
 - **Technologies**: Kotlin, Android Studio
